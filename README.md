@@ -1,4 +1,4 @@
 # microscope_lamp
 Microscope lamp PCB files for Altium Designer
-![alt text](https://github.com/caliskanali/ATMEGA-2560-Flight-Controller-CRIUS-/blob/master/Flight_Controller_top.JPG)
-![alt text](https://github.com/caliskanali/ATMEGA-2560-Flight-Controller-CRIUS-/blob/master/Flight_Controller_top1.JPG)
+Supply voltage 12V and 36 Led lamp
+![alt text](https://github.com/caliskanali/microscope_lamp/blob/master/microscope_LED_TOP.JPG)
