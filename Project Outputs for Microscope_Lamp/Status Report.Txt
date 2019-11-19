@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Microscope_Lamp.PcbDoc]
+   Generated File[Microscope_Lamp.TXT]
+   Generated File[Microscope_Lamp.LDP]
+   Generated File[Microscope_Lamp.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:10:24 On 18.11.2019
